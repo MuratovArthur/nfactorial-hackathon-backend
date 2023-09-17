@@ -6,6 +6,8 @@ Welcome to the BeeAware backend repository! This Flask-based API serves as the b
 
 Interactive, scalable map highlighting areas with high crime rates in Almaty, Kazakhstan:
 
+![Map gif](media/map.gif)
+
 ## API Documentation
 
 ### Base URL
