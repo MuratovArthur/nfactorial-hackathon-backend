@@ -2,6 +2,8 @@
 
 Welcome to the BeeAware backend repository! This Flask-based API serves as the backend for the BeeAware app, which aims to enhance situational awareness by alerting users about crime hotspots in Almaty, Kazakhstan 🇰🇿
 
+Link to the **iOS repository**: https://github.com/MuratovArthur/nfactorial-hackathon-ios
+
 ## Features
 
 Interactive, scalable map highlighting areas with high crime rates in Almaty, Kazakhstan:
